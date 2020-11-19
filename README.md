@@ -1,4 +1,4 @@
-# projeto-mestrado
+# Projetos Mestrado  (Lista)
 Lista de projetos iniciais em Ciência de dados/ Machine Learning e outros
 
 ## Colab: Análise de Performance do Vasco da Gama no Campeonato Brasileiro de 2003 até 2019
