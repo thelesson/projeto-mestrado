@@ -10,7 +10,7 @@ Repositório: https://github.com/thelesson/Colab-Analise-de-Performace-do-Vasco-
 
 <p align="center">Times que mais perderam para o Vasco da Gama nos Campeonatos Brasileiros 2003 até 2019</p>
 <p align="center">
-  <img src="./screenshot/grafico1.png" alt="Times que mais perderam para o Vasco da Gama no campeonato brasileiro 2003-2019" width="100%">
+  <img src="https://raw.githubusercontent.com/thelesson/Colab-Analise-de-Performace-do-Vasco-da-Gama-no-Campeonato-Brasileiro-de-2003-ate-2019/main/screenshot/grafico1.png" alt="Times que mais perderam para o Vasco da Gama no campeonato brasileiro 2003-2019" width="100%">
 </p>
 
 ## Deteção de micro emocoes em vídeos com TensorFlow - Frame by Frame
@@ -43,7 +43,7 @@ Miniblog simples criado com o framework Laravel. A api do Google Vision ajuda a 
 Repositório: https://github.com/thelesson/Miniblog-Laravel-7-Google-Vision-detecta-faces-e-restringe-pornografia
 
 <p align="center">
-  <img src="./screenshots/screenshot_google.png" alt="Upload Negado" width="80%">
+  <img src="https://raw.githubusercontent.com/thelesson/Miniblog-Laravel-7-Google-Vision-detecta-faces-e-restringe-pornografia/master/screenshots/screenshot_google.png" alt="Upload Negado" width="80%">
 </p>
 
 Video Demo
