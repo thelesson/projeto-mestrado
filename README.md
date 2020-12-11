@@ -49,3 +49,14 @@ Repositório: https://github.com/thelesson/Miniblog-Laravel-7-Google-Vision-dete
 Video Demo
 
  * [Veja o video demonstrativo no youtube](https://youtu.be/Bk_wFjN9_aY)
+ 
+ 
+ ## Prevendo cotação
+
+Rede Neural Recorrente(LSTM) para prever o fechamento das ações de uma empresa, com base no preço das ações nos últimos 60 dias
+
+Repositório: https://github.com/thelesson/prevendo-cotacao
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/thelesson/prevendo-cotacao/blob/main/cotacao.png" alt="Upload Negado" width="80%">
+</p>
