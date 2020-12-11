@@ -58,5 +58,5 @@ Rede Neural Recorrente(LSTM) para prever o fechamento das ações de uma empresa
 Repositório: https://github.com/thelesson/prevendo-cotacao
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/thelesson/prevendo-cotacao/blob/main/cotacao.png" alt="Upload Negado" width="80%">
+  <img src="https://raw.githubusercontent.com/thelesson/prevendo-cotacao/master/cotacao.png" alt="Cotacao" width="80%">
 </p>
